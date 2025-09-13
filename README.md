@@ -1,4 +1,4 @@
-# Projeto Integrador - Sistema de Personagens
+# Sistema de Personagens
 
 **Status:** Em desenvolvimento
 
